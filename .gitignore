@@ -1,0 +1,10 @@
+﻿# IntelliJ
+.idea
+*.iml
+*.info
+Instruction.png
+out.log
+out/
+your.file.name
+
+
